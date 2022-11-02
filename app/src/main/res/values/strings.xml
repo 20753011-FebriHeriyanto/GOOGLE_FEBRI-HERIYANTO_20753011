@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GOOGLE</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">bismillah</string>
+    <string name="this_fragment">Segala sesuatu memiliki kesudahan, yang sudah berakhir biarlah berlalu dan yakinlah semua akan baik-baik saja.</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">pengaturan</string>
+    <string name="search_hint">search</string>
+
+</resources>
